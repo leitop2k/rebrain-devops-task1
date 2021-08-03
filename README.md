@@ -1,0 +1,1 @@
+Default file nginx.conf
